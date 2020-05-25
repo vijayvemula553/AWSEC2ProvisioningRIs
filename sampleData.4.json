@@ -1,0 +1,22 @@
+{
+  "aws_access_key_id":"ACCESS_KEY",
+  "aws_secret_access_key":"SECRET_KEY",
+  "Number": 7,
+  "Region": "sa-east-1",
+  "AvailabilityZones": [
+    {
+      "Name": "sa-east-1a"
+    },
+    {
+      "Name": "sa-east-1b"
+    },
+    {
+      "Name": "sa-east-1c"
+    }
+  ],
+  "DryRun": true,
+  "IncludeMarketplace": true,
+  "InstanceType": "c3.2xlarge",
+  "isFixedPrice": true,
+  "isHourlyPrice": true
+}

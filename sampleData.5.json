@@ -1,0 +1,29 @@
+{
+  "aws_access_key_id":"ACCESS_KEY",
+  "aws_secret_access_key":"SECRET_KEY",
+  "Number": 20,
+  "Region": "sa-east-1",
+  "AvailabilityZones": [
+    {
+      "Name": "sa-east-1a"
+    },
+    {
+      "Name": "sa-east-1c"
+    }
+  ],
+  "DryRun": true,
+  "IncludeMarketplace": true,
+  "InstanceType": "c3.2xlarge",
+  "ProductDescription": "Linux/UNIX",
+  "MaxDuration": 31536000,
+  "MaxInstanceCount": 100,
+  "MinDuration": 31536000,
+  "InstanceTenancy": "default",
+  "OfferingType": "All Upfront",
+  "OfferingClass": "standard",
+  "isFixedPrice": true,
+  "isHourlyPrice": true,
+  "MaxFixedPrice": 300,
+  "MaxHourlyPrice": 0.21,
+  "LimitPrice": 123.22
+}

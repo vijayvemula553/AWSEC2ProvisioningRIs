@@ -1,0 +1,26 @@
+{
+  "Number": 20, //how many are we purchasing
+  "Region": "sa-east-1", //what region 
+  "AvailabilityZones": [ //each availability zone to be considered when purchasing
+    {
+      "Name": "sa-east-1a"
+    },
+    {
+      "Name": "sa-east-1c"
+    }
+  ],
+  "DryRun": true, //if dryrun is true, no actual purchases will be made
+  "IncludeMarketplace": true, //the RI marketplace, defaults to true
+  "InstanceType": "c3.2xlarge", //type
+  "ProductDescription": "Linux/UNIX", //description
+  "MaxDuration": 31536000, //length in seconds
+  "MaxInstanceCount": 10000, //ignore this property
+  "MinDuration": 31536000, //the minimum length in seconds
+  "InstanceTenancy": "default", 
+  "OfferingType": "All Upfront",
+  "OfferingClass": "standard",
+  "isFixedPrice": true, //if this is false, no server with fixed pricing will be considered 
+  "isHourlyPrice": true, //if this is false, no server with hourly pricing will be considered
+  "MaxFixedPrice": 300.45, //if set to 0, no limit will be set, is USD
+  "MaxHourlyPrice": 0.21 //if set to 0, no limit will be set, is USD
+}

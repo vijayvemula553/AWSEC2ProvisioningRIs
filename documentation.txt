@@ -1,0 +1,10 @@
+{
+  "Number": 11 //the number to purchase - Required
+  "Region": "sa-east-1" //the region to purchase from - Required
+  "InstanceType":"c3.2xlarge"
+  "DryRun":true //if dryrun is true, the purchases won't actually be made - Required
+  "IncludeMarketplace": true//true or false
+  
+
+  
+}
