@@ -1,0 +1,120 @@
+[
+  {
+    "region": "ap-south-1",
+    "availabilityZones": [
+      "ap-south-1a",
+      "ap-south-1b"
+    ]
+  },
+  {
+    "region": "eu-west-3",
+    "availabilityZones": [
+      "eu-west-3a",
+      "eu-west-3b",
+      "eu-west-3c"
+    ]
+  },
+  {
+    "region": "eu-west-2",
+    "availabilityZones": [
+      "eu-west-2a",
+      "eu-west-2b",
+      "eu-west-2c"
+    ]
+  },
+  {
+    "region": "eu-west-1",
+    "availabilityZones": [
+      "eu-west-1a",
+      "eu-west-1b",
+      "eu-west-1c"
+    ]
+  },
+  {
+    "region": "ap-northeast-2",
+    "availabilityZones": [
+      "ap-northeast-2a",
+      "ap-northeast-2c"
+    ]
+  },
+  {
+    "region": "ap-northeast-1",
+    "availabilityZones": [
+      "ap-northeast-1a",
+      "ap-northeast-1c",
+      "ap-northeast-1d"
+    ]
+  },
+  {
+    "region": "sa-east-1",
+    "availabilityZones": [
+      "sa-east-1a",
+      "sa-east-1c"
+    ]
+  },
+  {
+    "region": "ca-central-1",
+    "availabilityZones": [
+      "ca-central-1a",
+      "ca-central-1b"
+    ]
+  },
+  {
+    "region": "ap-southeast-1",
+    "availabilityZones": [
+      "ap-southeast-1a",
+      "ap-southeast-1b",
+      "ap-southeast-1c"
+    ]
+  },
+  {
+    "region": "ap-southeast-2",
+    "availabilityZones": [
+      "ap-southeast-2a",
+      "ap-southeast-2b",
+      "ap-southeast-2c"
+    ]
+  },
+  {
+    "region": "eu-central-1",
+    "availabilityZones": [
+      "eu-central-1a",
+      "eu-central-1b",
+      "eu-central-1c"
+    ]
+  },
+  {
+    "region": "us-east-1",
+    "availabilityZones": [
+      "us-east-1a",
+      "us-east-1b",
+      "us-east-1c",
+      "us-east-1d",
+      "us-east-1e",
+      "us-east-1f"
+    ]
+  },
+  {
+    "region": "us-east-2",
+    "availabilityZones": [
+      "us-east-2a",
+      "us-east-2b",
+      "us-east-2c"
+    ]
+  },
+  {
+    "region": "us-west-1",
+    "availabilityZones": [
+      "us-west-1a",
+      "us-west-1b"
+    ]
+  },
+  {
+    "region": "us-west-2",
+    "availabilityZones": [
+      "us-west-2a",
+      "us-west-2b",
+      "us-west-2c"
+    ]
+  }
+]
